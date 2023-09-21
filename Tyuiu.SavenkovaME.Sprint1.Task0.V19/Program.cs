@@ -12,7 +12,7 @@ namespace Tyuiu.SavenkovaME.Sprint1.Task0.V19
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1| Выполнила: Савенкова М. Е. | ИИПб-23-2";
+            Console.Title = "Спринт #1| Выполнила: Савенкова М. Е. |  ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы С#                                          *");
