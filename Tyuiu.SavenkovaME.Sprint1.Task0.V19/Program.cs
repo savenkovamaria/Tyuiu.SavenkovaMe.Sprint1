@@ -29,7 +29,7 @@ namespace Tyuiu.SavenkovaME.Sprint1.Task0.V19
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* 4/2*5/(3+2)*5                                                           *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАТ :                                                             *");
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(ds.Calculate());
