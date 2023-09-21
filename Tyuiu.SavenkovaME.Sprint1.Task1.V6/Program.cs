@@ -36,7 +36,7 @@ namespace Tyuiu.SavenkovaME.Sprint1.Task1.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine($"({x} + {y}) / (3 * {y}) = "+ds.Calculate(x, y));
+            Console.WriteLine($"Значение выражения ({x} + {y}) / (3 * {y}) = "+ds.Calculate(x, y));
             Console.ReadKey();
 
         }
