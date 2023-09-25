@@ -28,7 +28,7 @@ namespace Tyuiu.SavenkovaMe.Sprint1.Task2.V13
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
             int x;
-            Console.WriteLine("Ведите количество миль:");
+            Console.WriteLine("Введите количество миль:");
             x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");

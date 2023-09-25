@@ -13,7 +13,7 @@ namespace Tyuiu.SavenkovaMe.Sprint1.Task2.V13.Test
             DataService ds = new DataService();
             int mil = 1;
             double res = ds.ConvertMilesToKm(mil);
-            Assert.AreEqual(1.61, res);
+            Assert.AreEqual(1.609, res);
         }
     }
 }
